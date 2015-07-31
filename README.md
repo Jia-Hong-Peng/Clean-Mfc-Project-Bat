@@ -1,7 +1,8 @@
 # Clean-Mfc-Project-Bat
-Clean Mfc Project Bat
 
 Mfc Project 上傳 GIT/SVN 前先 CLEAN 一下
+
+![](http://i.imgur.com/a7ePp1e.png)
 
 使用前
 
